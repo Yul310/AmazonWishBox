@@ -21,7 +21,7 @@ router.get("/signup", (req, res) => {
  
  
 });
-//
+
 router.post("/signup", async (req, res) => {
     // encrypt password
     req.body.password = await bcrypt.hash(
