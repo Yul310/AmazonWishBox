@@ -1,6 +1,6 @@
 # ShopAndWish
 To check this app follow the link below:
-https://wishandshop.herokuapp.com/
+https://wish-and-shop.onrender.com/
 
 ## Premise:
 You can save your own wish shopping list and recommend a good product to your friend or family members. <br>
